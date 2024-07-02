@@ -1,0 +1,17 @@
+ul li:hover{
+    background-color: aqua;
+}
+hr{
+    border-bottom: solid 1px rgb(10, 0, 0) ;
+  
+}
+table input{
+    text-align: center;
+}
+.grid{
+    display: grid;
+    /* grid-template-columns: repeat(auto-fit,minmax(180px,1fr)); */
+}
+ table,th{
+    text-align: center;
+ }
